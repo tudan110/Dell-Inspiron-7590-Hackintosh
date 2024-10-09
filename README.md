@@ -16,15 +16,51 @@
 | 声卡                         | Realtek ALC295          |
 | 网卡&蓝牙                     | Intel Wireless-AC 9560  |
 
+## 目录结构
+
+```sh
+.
+├── LICENSE
+├── README.md
+├── Sequoia 15.0
+│   └── EFI
+│       ├── Boot
+│       │   └── BOOTx64.efi
+│       └── OC
+│           ├── ACPI
+│           ├── Bootstrap
+│           ├── ComboJack
+│           ├── Drivers
+│           ├── OpenCore.efi
+│           ├── Resources
+│           ├── Tools
+│           ├── config-1080.plist
+│           ├── config-4k.plist
+│           ├── config.plist
+│           ├── config.plist.bak
+│           ├── delloc
+│           ├── kexts
+│           └── oldConfig.plist
+├── imgs
+│   ├── display-link-manager.png
+│   ├── external-monitor.png
+│   └── system-info.png
+└── tools
+    ├── DisplayLink Manager Graphics Connectivity1.10.3-EXE.pkg
+    ├── Hackintool.zip
+    ├── HeliPort.dmg
+    └── OCAT_Mac.dmg
+```
+
 ## Wi-Fi 可用
 
 需要安装 HeliPort
 
 ## HDMI/麦克风不可用问题
 
-可以使用支持 DisplayLink 协议的扩展坞，例如 **联想 Thinkpad 40A8**
+可以使用支持 DisplayLink 协议的扩展坞，例如 **联想 Thinkpad 40A8**，包括 hdmi、DP、千兆网口、3.5mm耳机接口（支持麦克风）
 
-安装 DisplayLink Manager，可以支持 hdmi、DP、3.5mm耳机接口（支持麦克风）
+安装 DisplayLink Manager，可以支持最多两个外部显示器
 
 ## 三码洗白
 
