@@ -3,7 +3,7 @@
 用到的工具软件在 tools 目录
 
 - Dell-Inspiron-7590 
-- OC: 1.0.1
+- OC: 1.0.3
 
 ## 配置
 
@@ -68,9 +68,13 @@
 
 ## 修复HDMI/蓝牙教程
 
-参考资料，未测试
+蓝牙已修复，可以正常使用，连接 AirPods 声音正常
+
+参考资料
 
 [https://github.com/vcvvvc/Dell-Inspiron-7590-Ventura-OpenCore/issues/6](https://github.com/vcvvvc/Dell-Inspiron-7590-Ventura-OpenCore/issues/6)
+
+[https://hackintosh.club/d/10000017](https://hackintosh.club/d/10000017)
 
 ## 截图
 
@@ -83,3 +87,7 @@
 
 
 ![external-monitor](./imgs/external-monitor.png)
+
+
+
+![bluetooth](./imgs/bluetooth.png)
