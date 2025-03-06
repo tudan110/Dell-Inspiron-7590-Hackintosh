@@ -3,7 +3,7 @@
 用到的工具软件在 tools 目录
 
 - Dell-Inspiron-7590 
-- OC: 1.0.3
+- OC: 1.0.4
 
 ## 配置
 
@@ -41,6 +41,7 @@
 │           ├── delloc
 │           ├── kexts
 │           └── oldConfig.plist
+├── Sequoia 15.3.1 (省略)
 ├── imgs
 │   ├── display-link-manager.png
 │   ├── external-monitor.png
