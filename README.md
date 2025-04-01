@@ -4,6 +4,7 @@
 
 - Dell-Inspiron-7590 
 - OC: 1.0.4
+- MacOS Sequoia 15.4
 
 ## 配置
 
@@ -42,6 +43,7 @@
 │           ├── kexts
 │           └── oldConfig.plist
 ├── Sequoia 15.3.1 (省略)
+├── Sequoia 15.4   (省略)
 ├── imgs
 │   ├── display-link-manager.png
 │   ├── external-monitor.png
