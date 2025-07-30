@@ -97,5 +97,5 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=tudan110/nacos,tudan110/Dell-Inspiron-7590-Hackintosh&type=Date)](https://www.star-history.com/#tudan110/nacos&tudan110/Dell-Inspiron-7590-Hackintosh&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=tudan110/Dell-Inspiron-7590-Hackintosh&type=Date)](https://www.star-history.com/#tudan110/Dell-Inspiron-7590-Hackintosh&Date)
 
