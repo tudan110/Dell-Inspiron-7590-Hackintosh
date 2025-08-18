@@ -3,8 +3,8 @@
 用到的工具软件在 tools 目录
 
 - Dell-Inspiron-7590 
-- OC: 1.0.4
-- MacOS Sequoia 15.4
+- OC: 1.0.5
+- MacOS Sequoia 15.6
 
 ## 配置
 
@@ -44,6 +44,7 @@
 │           └── oldConfig.plist
 ├── Sequoia 15.3.1 (省略)
 ├── Sequoia 15.4   (省略)
+├── Sequoia 15.6   (省略)
 ├── imgs
 │   ├── display-link-manager.png
 │   ├── external-monitor.png
