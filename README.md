@@ -3,8 +3,8 @@
 用到的工具软件在 tools 目录
 
 - Dell-Inspiron-7590 
-- OC: 1.0.5
-- MacOS Sequoia 15.6
+- OC: 1.0.6
+- MacOS Sequoia 15.7
 
 ## 配置
 
@@ -45,12 +45,13 @@
 ├── Sequoia 15.3.1 (省略)
 ├── Sequoia 15.4   (省略)
 ├── Sequoia 15.6   (省略)
+├── Sequoia 15.7   (省略)
 ├── imgs
 │   ├── display-link-manager.png
 │   ├── external-monitor.png
 │   └── system-info.png
 └── tools
-    ├── DisplayLink Manager Graphics Connectivity1.10.3-EXE.pkg
+    ├── DisplayLink
     ├── Hackintool.zip
     ├── HeliPort.dmg
     └── OCAT_Mac.dmg
