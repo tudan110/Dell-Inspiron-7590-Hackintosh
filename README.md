@@ -21,6 +21,20 @@
 
 ```sh
 .
+├── EFI
+│   └── OC
+│       ├── ACPI
+│       ├── Bootstrap
+│       ├── ComboJack
+│       ├── config-4k.plist
+│       ├── config.plist
+│       ├── delloc
+│       ├── Drivers
+│       ├── kexts
+│       ├── oldConfig.plist
+│       ├── OpenCore.efi
+│       ├── Resources
+│       └── Tools
 ├── imgs
 │   ├── bluetooth.png
 │   ├── display-link-manager.png
@@ -28,21 +42,6 @@
 │   └── system-info.png
 ├── LICENSE
 ├── README.md
-├── Sequoia 15.7.3
-│   └── EFI
-│       └── OC
-│           ├── ACPI
-│           ├── Bootstrap
-│           ├── ComboJack
-│           ├── config-4k.plist
-│           ├── config.plist
-│           ├── delloc
-│           ├── Drivers
-│           ├── kexts
-│           ├── oldConfig.plist
-│           ├── OpenCore.efi
-│           ├── Resources
-│           └── Tools
 └── tools
     ├── Commander_One_PRO_3.13__iMacSO.com.dmg
     ├── DisplayLink
