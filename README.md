@@ -4,7 +4,7 @@
 
 - Dell-Inspiron-7590 
 - OC: 1.0.6
-- MacOS Sequoia 15.7
+- MacOS Sequoia 15.7.3
 
 ## 配置
 
@@ -21,39 +21,36 @@
 
 ```sh
 .
+├── imgs
+│   ├── bluetooth.png
+│   ├── display-link-manager.png
+│   ├── external-monitor.png
+│   └── system-info.png
 ├── LICENSE
 ├── README.md
-├── Sequoia 15.0
+├── Sequoia 15.7.3
 │   └── EFI
-│       ├── Boot
-│       │   └── BOOTx64.efi
 │       └── OC
 │           ├── ACPI
 │           ├── Bootstrap
 │           ├── ComboJack
-│           ├── Drivers
-│           ├── OpenCore.efi
-│           ├── Resources
-│           ├── Tools
-│           ├── config-1080.plist
 │           ├── config-4k.plist
 │           ├── config.plist
-│           ├── config.plist.bak
 │           ├── delloc
+│           ├── Drivers
 │           ├── kexts
-│           └── oldConfig.plist
-├── Sequoia 15.3.1 (省略)
-├── Sequoia 15.4   (省略)
-├── Sequoia 15.6   (省略)
-├── Sequoia 15.7   (省略)
-├── imgs
-│   ├── display-link-manager.png
-│   ├── external-monitor.png
-│   └── system-info.png
+│           ├── oldConfig.plist
+│           ├── OpenCore.efi
+│           ├── Resources
+│           └── Tools
 └── tools
+    ├── Commander_One_PRO_3.13__iMacSO.com.dmg
     ├── DisplayLink
+    │   ├── DisplayLink Manager Graphics Connectivity15.0-EXE.pkg
+    │   └── macOS App LoginExtension-EXE.dmg
     ├── Hackintool.zip
-    ├── HeliPort.dmg
+    ├── HeliPort-v1.5.0.dmg
+    ├── HeliPort-v2.0.0-alpha.dmg
     └── OCAT_Mac.dmg
 ```
 
