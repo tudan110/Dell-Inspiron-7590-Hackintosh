@@ -4,7 +4,7 @@
 
 - Dell-Inspiron-7590 
 - OC: 1.0.6
-- MacOS Sequoia 15.7.3
+- MacOS Sequoia 15.7.4
 
 ## 配置
 
